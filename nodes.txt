@@ -1,0 +1,33 @@
+cf-cname.xingpingcn.top:443#SUB-BestCFip
+mfa.gov.ua:2096#🚫 禁止测速
+store.ubi.com:2083#⬇️ 下载专用
+116.49.195.225:23456#HK⚡TG@danfeng_chat
+46.203.124.26:42398#HK⚡TG@danfeng_chat
+45.149.186.55:39738#HK⚡TG@danfeng_chat
+38.55.124.202:52473#HK⚡TG@danfeng_chat
+219.76.13.169:443#HK⚡TG@danfeng_chat
+216.250.97.101:1623#HK⚡TG@danfeng_chat
+43.199.231.225:9009#HK⚡TG@danfeng_chat
+154.12.177.77:27535#HK⚡TG@danfeng_chat
+103.229.54.77:10003#HK⚡TG@danfeng_chat
+47.79.88.131:1030#JP⚡TG@danfeng_chat
+124.156.238.155:443#JP⚡TG@danfeng_chat
+103.53.81.119:59951#JP⚡TG@danfeng_chat
+47.79.40.75:9089#JP⚡TG@danfeng_chat
+8.211.16.138:443#JP⚡TG@danfeng_chat
+103.150.8.181:18899#JP⚡TG@danfeng_chat
+103.173.178.215:39738#JP⚡TG@danfeng_chat
+137.220.151.214:39738#SG⚡TG@danfeng_chat
+188.253.5.136:7443#SG⚡TG@danfeng_chat
+45.196.238.71:56396#TW⚡TG@danfeng_chat
+213.210.5.20:443#TW⚡TG@danfeng_chat
+37.123.193.201:27050#US⚡TG@danfeng_chat
+4.155.242.86:39738#US⚡TG@danfeng_chat
+154.26.182.107:11118#US⚡TG@danfeng_chat
+128.241.251.154:62826#US⚡TG@danfeng_chat
+178.157.50.52:443#US⚡TG@danfeng_chat
+45.139.193.186:45440#US⚡TG@danfeng_chat
+38.147.161.251:34237#US⚡TG@danfeng_chat
+72.249.200.244:22215#US⚡TG@danfeng_chat
+103.136.146.27:22388#AU⚡TG@danfeng_chat
+//210.5.14.202:443#SaaS⚡TG@danfeng_chat
