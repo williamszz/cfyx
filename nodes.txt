@@ -1,33 +1,8 @@
-cf-cname.xingpingcn.top:443#SUB-BestCFip
-mfa.gov.ua:2096#🚫 禁止测速
-store.ubi.com:2083#⬇️ 下载专用
-31.56.123.243:39738#HK⚡TG@danfeng_chat
-38.47.120.28:15898#HK⚡TG@danfeng_chat
-188.253.112.112:443#HK⚡TG@danfeng_chat
-38.147.190.65:54312#HK⚡TG@danfeng_chat
-103.69.128.248:17345#HK⚡TG@danfeng_chat
-154.36.183.95:1015#JP⚡TG@danfeng_chat
-151.248.68.11:2053#JP⚡TG@danfeng_chat
-54.95.109.40:10005#JP⚡TG@danfeng_chat
-45.251.241.43:39738#JP⚡TG@danfeng_chat
-103.117.102.193:18470#JP⚡TG@danfeng_chat
-103.142.131.77:10301#JP⚡TG@danfeng_chat
-38.47.124.181:29458#JP⚡TG@danfeng_chat
-38.47.126.190:47775#JP⚡TG@danfeng_chat
-8.220.179.80:39738#SG⚡TG@danfeng_chat
-54.255.146.166:39738#SG⚡TG@danfeng_chat
-61.245.11.69:2053#SG⚡TG@danfeng_chat
-141.11.87.155:17009#TW⚡TG@danfeng_chat
-166.0.199.172:16582#TW⚡TG@danfeng_chat
-37.123.193.201:31005#US⚡TG@danfeng_chat
-154.9.227.100:443#US⚡TG@danfeng_chat
-154.19.241.132:7777#US⚡TG@danfeng_chat
-154.26.179.119:50139#US⚡TG@danfeng_chat
-146.19.116.204:37422#US⚡TG@danfeng_chat
-54.193.114.112:39738#US⚡TG@danfeng_chat
-104.224.158.169:11008#US⚡TG@danfeng_chat
-91.149.239.62:443#US⚡TG@danfeng_chat
-38.95.119.168:15403#US⚡TG@danfeng_chat
-82.115.31.209:20531#DE⚡TG@danfeng_chat
-185.212.60.139:16039#NL⚡TG@danfeng_chat
-//14.18.253.3:443#SaaS⚡TG@danfeng_chat
+cf-cname.xingpingcn.top:443#Join my telegram group
+cmcmcm.cf.090227.xyz:2053#TG@danfeng_chat
+mfa.gov.ua:2096#风急天高猿啸哀
+store.ubi.com:2083#渚清沙白鸟飞回
+www.shopify.com:2096#无边落木萧萧下
+staticdelivery.nexusmods.com:2083#不尽长江滚滚来
+cloudflare-dl.byoip.top:2053#万里悲秋常作客
+saas.sin.fan:2087#百年多病独登台
