@@ -4,6 +4,7 @@ store.ubi.com:2083#⬇️ 下载专用
 103.41.7.14:33566#HK⚡TG@danfeng_chat
 46.232.106.163:446#HK⚡TG@danfeng_chat
 5.253.16.162:4430#HK⚡TG@danfeng_chat
+157.254.32.139:19800#HK⚡TG@danfeng_chat
 167.88.182.86:34237#JP⚡TG@danfeng_chat
 43.239.249.232:22231#JP⚡TG@danfeng_chat
 45.143.235.209:31995#JP⚡TG@danfeng_chat
@@ -15,8 +16,11 @@ store.ubi.com:2083#⬇️ 下载专用
 38.47.96.138:15916#JP⚡TG@danfeng_chat
 13.113.113.240:10005#JP⚡TG@danfeng_chat
 13.114.113.25:10005#JP⚡TG@danfeng_chat
+172.99.137.26:40001#KR⚡TG@danfeng_chat
+172.99.137.26:10041#KR⚡TG@danfeng_chat
 8.222.195.24:14706#SG⚡TG@danfeng_chat
 46.232.111.35:3443#SG⚡TG@danfeng_chat
+172.99.138.102:36744#SG⚡TG@danfeng_chat
 141.11.87.155:17009#TW⚡TG@danfeng_chat
 103.236.227.155:39738#TW⚡TG@danfeng_chat
 154.17.229.88:38108#US⚡TG@danfeng_chat
