@@ -1,13 +1,3 @@
-cf-cname.xingpingcn.top:443#Join my telegram group
-cmcmcm.cf.090227.xyz:2053#TG@danfeng_chat
-mfa.gov.ua:2096#风急天高猿啸哀
-store.ubi.com:2083#渚清沙白鸟飞回
-www.shopify.com:2096#无边落木萧萧下
-staticdelivery.nexusmods.com:2083#不尽长江滚滚来
-cloudflare-dl.byoip.top:2053#万里悲秋常作客
-saas.sin.fan:2087#百年多病独登台
-cloudflare-dl.cnae.top:2087#艰难苦恨繁霜鬓
-cfsaas.080112.xyz:2096#潦倒新停浊酒杯
 8.210.199.207:39738#HK⚡TG@danfeng_chat
 16.162.192.30:39738#HK⚡TG@danfeng_chat
 47.239.228.138:39738#HK⚡TG@danfeng_chat
@@ -20,11 +10,3 @@ cfsaas.080112.xyz:2096#潦倒新停浊酒杯
 129.226.150.167:443#SG⚡TG@danfeng_chat
 8.222.213.91:39738#SG⚡TG@danfeng_chat
 8.219.78.44:7547#SG⚡TG@danfeng_chat
-47.254.89.92:8093#US⚡TG@danfeng_chat
-47.254.85.160:443#US⚡TG@danfeng_chat
-47.254.127.40:20000#US⚡TG@danfeng_chat
-47.254.78.83:443#US⚡TG@danfeng_chat
-47.254.38.8:20000#US⚡TG@danfeng_chat
-47.251.168.90:20000#US⚡TG@danfeng_chat
-47.254.236.248:39738#MY⚡TG@danfeng_chat
-47.254.235.252:443#MY⚡TG@danfeng_chat
