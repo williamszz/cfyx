@@ -5,7 +5,7 @@ from urllib.parse import unquote
 
 # === 订阅地址 ===
 # url = "https://sub.danfeng.eu.org/sub?uuid=b5544203-55e3-426e-92f1-0684c93f9829&host=snippet.443888.xyz"
-url = "https://sub.danfeng.eu.org/sub?uuid=00a85603-d8c6-437d-a8bd-ea521107bd87&host=snippet.443888.xyz"
+url = "https://sub.danfeng.eu.org/sub?uuid=00a85603-d8c6-437d-a8bd-ea521107bd87&host=snippet.danfeng.netlib.re"
 
 # === 自定义请求头（可自行修改） ===
 headers = {
